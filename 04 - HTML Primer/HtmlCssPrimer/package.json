@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "4.1.1"
+    "bootstrap": "5.0.0"
   },
   "devDependencies": {
     "lite-server": "2.3.0"
